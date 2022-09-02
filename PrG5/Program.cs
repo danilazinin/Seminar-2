@@ -7,7 +7,7 @@ int a = int.Parse(Console.ReadLine());
 
 if (a % 23 == 0 && a % 7 == 0)
 {
-   Console.WriteLine(" число кратно 7 и 23");
+   Console.WriteLine("число кратно 7 и 23");
 }
 else
 {
